@@ -19,5 +19,4 @@ Pasos guía / ayuda para la resolución:
 4) Agregar la ruta 404 y enviar el mensaje correspondiente.
 
 5) Agregar la ruta root (/) del home y enviar el archivo correspondiente.
-
-DEBES HACERLO EN EL ARCHIVO PRACTICA.JS PARA NO SPOILEARTE LA SOLUCION */
+ */
